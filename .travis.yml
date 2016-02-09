@@ -1,0 +1,4 @@
+language: node
+node:
+- 4.6
+script: node test.js
